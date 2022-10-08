@@ -1,17 +1,15 @@
 <h1 align="center">Welcome, I'm Brian Pineda</h1>
 <h3 align="center">I'm an aspiring Software Engineer and Game Developer</h3>
 
-- 🔭 I’m currently working on **Forensic Library Application**
+- 🔭 I’m currently working on **Forensic Library Application** and **Home Workouts Made Easy**
 
-- 🌱 I’m looking to develop my skills more in **C++ and React Native**
+- 🌱 I’m looking to further my skills in **C++ and React Native**
 
-- 🔭 I’m currently working on **Home Workouts Made Easy**
+- 🤝 Struggling a little on **C++**, but we're managing!
 
-- 🤝 I’m looking for help with **C++**
+- 💬 Feel free to ask me anything about **Java** and I'll answer them to the best of my abilities!
 
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **brianpineda101000@gmail.com**
+- 📫 Contact me at: **brianpineda101000@gmail.com** OR **Mundane#2718 (Discord)**
 
 - ⚡ Fun fact **I am currently working as a teaching assistant in an advanced Java course! :D**
 
@@ -19,7 +17,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/brianp10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brianp10/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/brianpineda101000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="brianpineda101000" height="30" width="40" /></a>
-<a href="https://discord.gg/Mundane#2718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mundane#2718" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
