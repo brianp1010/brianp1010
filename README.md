@@ -1,17 +1,15 @@
 <h1 align="center">Welcome, I'm Brian Pineda</h1>
 <h3 align="center">I'm an aspiring Software Engineer and Game Developer</h3>
 
-- 🔭 I’m currently working on **Forensic Library Application** and **Home Workouts Made Easy**
+- 🔭 I’m currently searching for developer and IT Jobs
 
-- 🌱 I’m looking to further my skills in **C++ and React Native**
+- 🌱 I’m looking to further my skills in **C++ and Javascript**
 
-- 🤝 Struggling a little on **C++**, but we're managing!
+- 🤝 Keep those applications flowing. 
 
 - 💬 Feel free to ask me anything about **Java** and I'll answer them to the best of my abilities!
 
-- 📫 Contact me at: **brianpineda101000@gmail.com** OR **Mundane#2718 (Discord)**
-
-- ⚡ Fun fact **I am currently working as a teaching assistant in an advanced Java course! :D**
+- 📫 Contact me at: **brianpineda101000@gmail.com** OR **mundane___ (Discord)**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
